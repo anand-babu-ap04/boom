@@ -6,8 +6,8 @@ pool:
 
 variables:
   subscription: Azure Pass - Sponsorship(bacf3a84-db4c-4535-8241-79062b44788f)
-  resourceGroup: tfstate
-  storageAccount: tfstatejt09d
+  resourceGroup: app-grp
+  storageAccount: tfstatejt09
   container: tfstate
   tfstateFile: terraform.tfstate
   anyTfChanges: false
